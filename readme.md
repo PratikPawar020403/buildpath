@@ -1,4 +1,4 @@
-BuildPath :— Hackathon project developed using the Medo app during the Medo Hackathon.
+BuildPath :- Hackathon project developed using the Medo app during the Medo Hackathon.
 Project Story :-
 Inspiration
 Every founder hits that moment , when you have an idea that actually feels good, maybe even great, but no clue what comes next. So you do what everyone does: open Google, search "how to validate a startup idea," and suddenly you're buried in endless tabs, outdated articles, and generic startup advice that never gives you real clarity on what to do with your specific idea.
