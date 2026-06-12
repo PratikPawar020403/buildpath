@@ -1,11 +1,11 @@
-BuildPath 
-Project Story
+BuildPath :— Hackathon project developed using the Medo app during the Medo Hackathon.
+Project Story :-
 Inspiration
 Every founder hits that moment , when you have an idea that actually feels good, maybe even great, but no clue what comes next. So you do what everyone does: open Google, search "how to validate a startup idea," and suddenly you're buried in endless tabs, outdated articles, and generic startup advice that never gives you real clarity on what to do with your specific idea.
 
 That's the gap BuildPath was built to fill.
 
-The inspiration came from personal frustration  being stuck not because of a lack of ambition, but because of a lack of structure. No co-founder, no $50,000 consultant  just the need for something to sit next to you and say "okay, here's exactly what to do first. Then this. Then this."
+The inspiration came from personal frustration  being stuck not because of a lack of ambition, but because of a lack of structure. No co-founder, no consultant just the need for something to sit next to you and say "okay, here's exactly what to do first. Then this. Then this."
 
 The motto says it all: By the founder, of the founder, for the founder.
 
